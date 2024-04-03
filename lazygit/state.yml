@@ -1,0 +1,35 @@
+lastupdatecheck: 1682665043
+recentrepos:
+- /Users/yungvenuz/.config
+- /Users/yungvenuz/CodeSpace/cscc-frontend
+- /Users/yungvenuz/CodeSpace/baoleiyuanma
+- /Users/yungvenuz/CodeSpace/taikang-galaxy-cmdb-sync
+- /Users/yungvenuz/CodeSpace/galaxy-venus-dnsm
+- /Users/yungvenuz/CodeSpace/boc-galaxy-config-sync
+- /Users/yungvenuz/CodeSpace/galaxy-mars
+- /Users/yungvenuz/CodeSpace/arco-admin
+- /Users/yungvenuz/CodeSpace/my-node-app
+- /Users/yungvenuz/CodeSpace/galaxy-solar
+- /Users/yungvenuz/CodeSpace/arco-design-vue-snippets
+- /Users/yungvenuz/CodeSpace/clear-manage
+- /Users/yungvenuz/CodeSpace/galaxy-uranus
+- /Users/yungvenuz/CodeSpace/galaxy-venus-am
+- /Users/yungvenuz/CodeSpace/galaxy-jupiter
+- /Users/yungvenuz/CodeSpace/spsystemfe
+- /Users/yungvenuz/CodeSpace/nantian-loadbalance
+- /Users/yungvenuz/CodeSpace/galaxy-venus-fara
+- /Users/yungvenuz/CodeSpace/galaxy-saturn
+- /Users/yungvenuz/CodeSpace/RuoYi-Vue
+- /Users/yungvenuz/CodeSpace/license-admin
+startuppopupversion: 5
+lastversion: 0.41.0
+customcommandshistory:
+- e rebase
+- :e rebase
+hidecommandlog: false
+ignorewhitespaceindiffview: false
+diffcontextsize: 3
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
